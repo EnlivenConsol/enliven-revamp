@@ -1,0 +1,28 @@
+body {
+  background: url('/images/revamp_img.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+#dots {
+  position: absolute;
+
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  background-image: url('/images/bg_mask.png');
+  z-index: -990;
+}
+
+h1{
+  color: #4ea6bc;
+}
+
+p{
+  color: #013220;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

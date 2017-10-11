@@ -19,10 +19,14 @@ body {
 }
 
 h1{
-  color: #4ea6bc;
+  color: #043a47;
 }
 
 p{
   color: #013220;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#clock{
+  color: #0c0101;
 }

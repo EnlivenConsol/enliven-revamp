@@ -324,6 +324,11 @@ address {
 	font-family: 'Montserrat', sans-serif;
 }
 
+.subscribe p {
+	text-align: center;
+}
+
+
 .subscribe {
 	margin-top: 3em;
 }

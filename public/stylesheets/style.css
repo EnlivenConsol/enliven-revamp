@@ -270,24 +270,45 @@ label {
 }
 
 a{
-	color: #8cf85e;
+	color: #ffffff;
 	font-size: 18px;
 }
 /*-- main --*/
+
+.header{
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.header img {
+	vertical-align: middle;
+	width: 100px;
+	height: 100px;
+  }
+
+  .header h1 {
+	display: inline;
+	color: #419A1C;
+	font-size: 43px;
+	letter-spacing: 1px;
+	font-family: 'Audiowide', cursive;
+	text-transform: capitalize;
+  }
 
 .content {
 	padding: 106px 0 60px;
 
 }
 
-.content h1 {
+/* .content h1 {
 	color: yellow;
 	font-size: 43px;
 	text-align: center;
 	letter-spacing: 1px;
 	font-family: 'Audiowide', cursive;
 	text-transform: capitalize;
-}
+} */
 
 .content p {
 	color: #ffffff;
@@ -324,6 +345,7 @@ address {
 	text-align: center;
 	color: yellow;
 	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
 }
 
 .subscribe p {
@@ -347,7 +369,7 @@ address {
 
 h2 {
 	text-align: center;
-	color: #fff;
+	color: yellow;
 	font-size: 1.3em;
 	margin: 1em 0;
 	font-family: 'Montserrat', sans-serif;

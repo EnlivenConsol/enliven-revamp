@@ -282,7 +282,7 @@ label {
 /*-- main --*/
 
 .container {
-	background-color: rgba(0,0,0,.6);
+	background-color: rgba(255,255,255,.1);
 	border-radius: 10px;
 	position: absolute;
 	top: 50%;
@@ -313,13 +313,13 @@ label {
 
 	h2 {
 	  text-align: center;
-	  color: #419A1C;
-	  font-size: 1.3em;
+	  color: rgb(36, 94, 11);
+	  font-size: 1.5em;
 	  margin: 1em 0;
 	  font-family: 'Montserrat', sans-serif;
 	}
 	p {
-	  color: #ffffff;
+	  color: #000000;
 	  font-size: 14px;
 	  text-align: center;
 	  letter-spacing: 1px;
@@ -328,14 +328,14 @@ label {
 	}
 
 	a{
-	  color: #ffffff;
+	  color: #000000;
 	  /* font-size: 18px; */
 	  text-decoration: none;
 	}
 
 	address {
 	  text-align: center;
-	  color: #419A1C;
+	  color: rgb(36, 94, 11);
 	  font-family: 'Montserrat', sans-serif;
 	  /* font-size: 20px; */
 	}
